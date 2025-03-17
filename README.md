@@ -10,4 +10,7 @@ Learning Devops
 4. Git & GitHub
 5. AWS
 6. CI/CD
+7. Docker & Kubernetes
+8. Containerization
+
    
